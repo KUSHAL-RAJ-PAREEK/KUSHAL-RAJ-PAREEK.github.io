@@ -1,4 +1,7 @@
 module.exports = {
+  resolve: {
+    extensions: ['.js', '.jsx']
+  },
     context: __dirname + "/src",
     entry: './index.js',
   
