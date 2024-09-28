@@ -102,7 +102,7 @@ export const aboutData = [
         stage: '2026',
       },
       {
-        title: 'Sineor Secondary - T.A.V.P sr. sec. school',
+        title: 'Senior Secondary - T.A.V.P sr. sec. school',
         stage: '2022',
       },
       {
